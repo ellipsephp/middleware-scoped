@@ -1,6 +1,6 @@
 # Middleware scoped
 
-[Psr-15 middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) proxying another middleware based on url condition.
+[Psr-15 middleware](https://www.php-fig.org/psr/psr-15/) proxying another middleware based on url condition.
 
 **Require** php >= 7.1
 
